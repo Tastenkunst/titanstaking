@@ -3,5 +3,5 @@
   "description": "For a TITAN strong Prime network. 💪 Join us! Telegram: https://t.me/titanstakingio",
   "ticker": "TITAN",
   "homepage": "https://www.titanstaking.io",
-  "extended": "https://www.titanstaking.io/titan.metadata.extended.json"
+  "extended": "https://raw.githubusercontent.com/Tastenkunst/titanstaking/refs/heads/main/titan.extended-metadata.json"
 }
