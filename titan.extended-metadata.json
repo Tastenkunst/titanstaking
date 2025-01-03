@@ -1,0 +1,36 @@
+{
+  "info": {
+    "url_png_icon_64x64": "https://www.titanstaking.io/img/logo-64.png",
+    "url_png_logo": "https://www.titanstaking.io/img/logo-256.png",
+    "location": "worldwide",
+    "social": {
+      "twitter_handle": "titanstaking",
+      "telegram_handle": "titanstakingio",
+      "facebook_handle": "",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "discord_handle": "",
+      "github_handle": ""
+    },
+    "company": {
+      "name": "Tastenkunst GmbH",
+      "addr": "Grassistrasse 12",
+      "city": "Leipzig",
+      "country": "Germany",
+      "company_id": "",
+      "vat_id": ""
+    },
+    "about": {
+      "me": "For a TITAN strong Prime network. 💪 Join us! Telegram: https://t.me/titanstakingio - Twitter: https://twitter.com/titanstaking",
+      "server": "",
+      "company": ""
+    },
+    "rss": ""
+  },
+  "my-pool-ids": {
+    "0": "57a42f5b9e2386a57ef303d59743909bfb29edff70bccf9f8166fcc9"
+  },
+  "telegram-admin-handle": {
+    "0": "marcelbaumberg"
+  }
+}
